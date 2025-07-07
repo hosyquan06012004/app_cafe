@@ -1,0 +1,94 @@
+# =======================
+# Ignore folders and files for .NET / Visual Studio
+# =======================
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.vscode/
+
+## Auto-generated files
+*.log
+*.tlog
+*.tmp
+*.cache
+*.dbmdl
+*.bak
+*.orig
+
+## IIS Express
+.vs/
+iisexpress/
+
+## Rider
+.idea/
+*.sln.iml
+
+## Packages (if not using package restore)
+packages/
+
+## DotCover
+*.dotCover
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Azure
+.scm/
+
+## Local test results
+TestResults/
+*.coverage
+*.coveragexml
+*.vsp
+*.vspx
+*.sap
+
+## NCrunch
+*.ncrunch*
+*.nunit*
+*.test*
+
+## Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+## Windows crash dumps
+*.dmp
+
+## Other VS specific
+*.vsidx
+*.VC.db
+*.VC.VC.opendb
+
+## SQL Server files
+*.mdf
+*.ldf
+
+## Backup files
+*.bak
+*.old
+*.tmp
+
+## Logs
+*.log
+
+# Git configuration (optional)
+!.gitattributes
+!.gitignore
+
+# Environment files (if used)
+.env
+.env.*
+
