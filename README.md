@@ -23,8 +23,6 @@ GIỚI THIỆU - HƯỠNG DẪN SỬ DỤNG VÀ CHẠY PROJECT LẦN ĐẦU TIÊ
 
     2. trang user
        + xuất file cho order
-         
-
 * một số hình ảnh tham khảo
    ![image](https://github.com/user-attachments/assets/9745e4ef-9a68-4e73-914b-30485391ea57)
    ![image](https://github.com/user-attachments/assets/ebdf04dd-fd3c-48b8-9e69-9916ab2b3076)
