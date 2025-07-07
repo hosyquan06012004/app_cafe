@@ -1,4 +1,4 @@
-GIỚI THIỆU - HƯỠNG DẪN SỬ DỤNG VÀ CHẠY PROJECT LẦN ĐẦU TIÊN
+----- GIỚI THIỆU - HƯỠNG DẪN SỬ DỤNG VÀ CHẠY PROJECT LẦN ĐẦU TIÊN - THAM KHẢO HÌNH ẢNH PHÍA DƯỚI ----
  * Công nghệ sử dụng:
     .Net windown form, SQL Server
  * Chạy project lần đầu tiên
